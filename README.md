@@ -6,6 +6,9 @@ Default port is 3000 you can change it by running following command
 1. `npm i`
 2. `npm run start`
 
+# Running loop script
+1. `node ./scripts/event_scheduler.js`
+
 # API
 
 ```http
