@@ -1,0 +1,7 @@
+POST http://localhost:3000/schedule
+Content-Type: application/json
+
+{
+    "time": "2022-03-25T13:47:57.892Z",
+    "text": "Hello world"
+}
